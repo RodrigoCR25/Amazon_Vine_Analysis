@@ -16,4 +16,12 @@ ________________________________________________________________________________
 
 # Results
 
+![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Total_Rev_Vine.png)
 
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
