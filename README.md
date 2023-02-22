@@ -24,4 +24,4 @@ ________________________________________________________________________________
 
 ![image]()
 
-![image]()
+![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Porcentage.png)
