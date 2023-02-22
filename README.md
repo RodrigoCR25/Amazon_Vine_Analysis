@@ -32,7 +32,13 @@ From the prepared data, the next step was to count the rows in each table, since
 
 ![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Five_Star_Vine.png)
 
+5 star Vine and non-Vine reviews
+
+For the 5 star reviews for both paid and unpaid it was necessary to create another two tables by filtering the data where the column "star_rating" was equal to 5, so a table was created from each. 
+
 ![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Porcentage.png)
+
+The total number of 5 star reviews for paid service is: 48 and for the unpaid service is: 15663.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
