@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Total_Rev_not_Vine.png)
 
-![image]()
+![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Total_Rev_Vine_df.png)
 
 ![image]()
 
