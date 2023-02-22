@@ -16,6 +16,14 @@ ________________________________________________________________________________
 
 # Results
 
+With the information obtained in our developed control, a filter was made in different tables to have an order in the total 5-star reviews and finally obtain the result of the percentage of 5 stars for paid and unpaid Vine.
+
+The data was prepared before any filtering moves were made for this analysis, the data used was selected using only those that have 50% useful votes out of the total votes (since they are more reliable) and two tables were also obtained one for the paid user and another for the non-paid user to facilitate the filtering of information.
+
+# Total Vine and Non-Vine Reviews
+
+From the prepared data, the next step was to count the rows in each table, since all the filtering was done previously, separating both users using the "vine" column ('Y' for paid user and 'N' for not pay) . So the total number of revisions for the paid service is: 94 and for the unpaid service is: 40471.
+
 ![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Total_Rev_Vine.png)
 
 ![image](https://github.com/RodrigoCR25/Amazon_Vine_Analysis/blob/main/Total_Rev_not_Vine.png)
